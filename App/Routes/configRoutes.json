@@ -1,0 +1,17 @@
+{
+  "404": {
+    "route": "\/404",
+    "controller": "Controller",
+    "method": "notFound"
+  },
+  "home": {
+    "route": "\/",
+    "controller": "Controller",
+    "method": "home"
+  },
+  "ajax/enviarForm": {
+    "route": "\/sobre-nos",
+    "controller": "Controller",
+    "method": "sobreNos"
+  }
+}
